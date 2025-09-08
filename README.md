@@ -62,25 +62,13 @@ print("BFS Traversal Order:", bfs(graph, start_node))
 ```
 ### Sample Input:
 
-Enter number of nodes: 3
-
-Enter node: A
-
-Enter neighbors of A (comma separated): B
-
-Enter node: B
-
-Enter neighbors of B (comma separated): C
-
-Enter node: C
-
-Enter neighbors of C (comma separated): 
-
-Enter the starting node for BFS: A
+<img width="413" height="260" alt="image" src="https://github.com/user-attachments/assets/e64424e7-8fec-498d-b263-b5bb06fd7396" />
 
 ### Sample Output:
 
-BFS Traversal Order: ['A', 'B', 'C']
+<img width="522" height="23" alt="image" src="https://github.com/user-attachments/assets/5b388d41-2441-43d9-9fd9-1186a8242b73" />
+
 
 
 ### Result:
+Thus,the program is sucessfull
