@@ -60,11 +60,11 @@ start_node = input("Enter the starting node for BFS: ")
 
 print("BFS Traversal Order:", bfs(graph, start_node))
 ```
-### Sample Input:
+### Input:
 
 <img width="413" height="260" alt="image" src="https://github.com/user-attachments/assets/e64424e7-8fec-498d-b263-b5bb06fd7396" />
 
-### Sample Output:
+### Output:
 
 <img width="522" height="23" alt="image" src="https://github.com/user-attachments/assets/5b388d41-2441-43d9-9fd9-1186a8242b73" />
 
